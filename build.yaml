@@ -13,5 +13,5 @@
 #
 ---
 include:
-  - board: adafruit_kb2040
-    shield: two_percent_milk
+  - board: rpi_pico
+    shield: dh_104_cruiser
